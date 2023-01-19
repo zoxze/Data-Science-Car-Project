@@ -1,4 +1,4 @@
-# STAT-4185
+# Data Science Pipeline Project
 
 The goal of my project is to work with an automobile dataset to predict the price of the automobile. 
 The data used includes information about various features of the automobile. 
